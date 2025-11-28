@@ -8,8 +8,8 @@ I love building tools that genuinely help people and make their lives easier. I 
 I'm highly versatile and love learning new technologies. I work across the stack with:
 - **Web:** React, JavaScript, TypeScript, Tailwind CSS, Django, 11ty
 - **Backend/Data:** Python, SQL Server, Java
-- **Game Dev:** GDScript (Godot), learning C++/C/C#
-- **Low-level:** Currently exploring C, C++, and C# for systems programming and game engines
+- **Game Dev:** GDScript (Godot), Lua, C#, learning C++/C, 
+- **Low-level:** Currently exploring C, and C++ for systems programming and game engines
 
 Also, I use vim btw 🤓
 
@@ -22,7 +22,7 @@ Also, I use vim btw 🤓
 I'm likely writing, learning something new, tinkering with electronics, or worldbuilding for stories/games.
 
 Fun facts about me:
-- I am a cat maniac
+- I'm a cat maniac
 - My favourite drink is water
 - Chronic problem solver
 
