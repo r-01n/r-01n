@@ -5,7 +5,12 @@ I'm Riana, a full stack developer from Madagascar.
 I love building tools that genuinely help people and make their lives easier. I also enjoy making small games in my free time! Most of my projects started as solutions to my own problems, which I'm now polishing and releasing for others to use.
 
 ### Tech Stack
-I am very versatile, but I primarily work with **React**, **JavaScript**, **TypeScript**, **Tailwind CSS**, **Django**, **SQL Server**
+I'm highly versatile and love learning new technologies. I work across the stack with:
+- **Web:** React, JavaScript, TypeScript, Tailwind CSS, Django, 11ty
+- **Backend/Data:** Python, SQL Server, Java
+- **Game Dev:** GDScript (Godot), learning C++/C/C#
+- **Low-level:** Currently exploring C, C++, and C# for systems programming and game engines
+
 Also, I use vim btw 🤓
 
 ### 🌱 Currently
