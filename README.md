@@ -1,4 +1,25 @@
-## Hi there 👋
+## Hello ヾ(￣▽￣) 
+
+I'm Riana, a full stack developer from Madagascar.
+
+I love building tools that genuinely help people and make their lives easier. I also enjoy making small games in my free time! Most of my projects started as solutions to my own problems, which I'm now polishing and releasing for others to use.
+
+### Tech Stack
+I am very versatile, but I primarily work with **React**, **JavaScript**, **TypeScript**, **Tailwind CSS**, **Django**, **SQL Server**
+Also, I use vim btw 🤓
+
+### 🌱 Currently
+- Polishing personal projects for public release
+- Developing games to kickstart a small studio
+- Looking for opportunities to contribute to meaningful projects
+
+### Outside of coding
+I'm likely writing, learning something new, tinkering with electronics, or worldbuilding for stories/games.
+
+Fun facts about me:
+- I am a cat maniac
+- My favourite drink is water
+- Chronic problem solver
 
 <!--
 **r-01n/r-01n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
